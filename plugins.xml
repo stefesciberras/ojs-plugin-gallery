@@ -12114,6 +12114,7 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.4.0.8</version>
 				<version>3.4.0.9</version>
 			</compatibility>
+			<certification type="reviewed"/>
 			<description locale="en_US">
 				Initial public release for OJS 3.4.
 			</description>
